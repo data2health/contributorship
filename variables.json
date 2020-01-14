@@ -49,8 +49,9 @@
           "Oregon Clinical and Translational Reseearch Institute, Oregon Health & Science University",
           "Department of Medical Informatics and Clinical Epidemiology, Oregon Health & Science University"
         ],
-        "funders": "Grant U24 TR002306",
+        "funders": "Grant# U24 TR002306",
         "roles": [
+          "CRO_0000081 coordination role",
           "CREDIT_00000013 writing original draft role"
         ],
         "affiliation_numbers": [
@@ -67,8 +68,9 @@
         "affiliations": [
           "Galter Library, Northwestern University"
         ],
-        "funders": "Grant U24 TR002306",
+        "funders": "Grant U24# TR002306",
         "roles": [
+          "CRO_0000081 coordination role",
           "CREDIT_00000013 writing original draft role"
         ],
         "affiliation_numbers": [
@@ -131,8 +133,7 @@
           "Freie Universität Berlin"
         ],
         "roles": [
-          "CREDIT_00000013 writing original draft role",
-          "CRO_0000006 background and literature search role"
+          "CREDIT_00000013 writing original draft role"
         ],
         "affiliation_numbers": [
           8
@@ -146,9 +147,10 @@
         "affiliations": [
           "Galter Library, Northwestern University"
         ],
-        "funders": "Grant U24 TR002306",
+        "funders": "Grant# U24 TR002306",
         "roles": [
-          "CREDIT_00000013 writing original draft role"
+          "CREDIT_00000013 writing original draft role",
+          "CRO_0000006 background and literature search role"
         ],
         "affiliation_numbers": [
           3
@@ -240,7 +242,7 @@
         "affiliations": [
           "Library, Oregon Health & Science University"
         ],
-        "funders": "Grant U24 TR002306",
+        "funders": "Grant# U24 TR002306",
         "affiliation_numbers": [
           14
         ]

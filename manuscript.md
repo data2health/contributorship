@@ -56,7 +56,7 @@ on January 14, 2020.
     [n_vasilevsky](https://twitter.com/n_vasilevsky)<br>
   <small>
      Oregon Clinical and Translational Reseearch Institute, Oregon Health & Science University; Department of Medical Informatics and Clinical Epidemiology, Oregon Health & Science University
-     · Funded by Grant U24 TR002306
+     · Funded by Grant# U24 TR002306
   </small>
 
 + **Kristi Holmes**<br>
@@ -66,7 +66,7 @@ on January 14, 2020.
     [kristiholmes](https://github.com/kristiholmes)<br>
   <small>
      Galter Library, Northwestern University
-     · Funded by Grant U24 TR002306
+     · Funded by Grant U24# TR002306
   </small>
 
 + **Barbara Kern**<br>
@@ -103,7 +103,7 @@ on January 14, 2020.
 + **Karen Gutzman**<br><br>
   <small>
      Galter Library, Northwestern University
-     · Funded by Grant U24 TR002306
+     · Funded by Grant# U24 TR002306
   </small>
 
 + **Mohammad Hosseini**<br>
@@ -152,7 +152,7 @@ on January 14, 2020.
     [0000-0001-5059-4132](https://orcid.org/0000-0001-5059-4132)<br>
   <small>
      Library, Oregon Health & Science University
-     · Funded by Grant U24 TR002306
+     · Funded by Grant# U24 TR002306
   </small>
 
 
