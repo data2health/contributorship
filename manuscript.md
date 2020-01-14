@@ -188,20 +188,31 @@ The CRO can be used with the Contributor Attribution Model (CAM) - a simple, ont
 
 _Incentives to use contributions_
 
-Benefits to the community include: better discovery and selection of team members for team-based science, the creation of a directory of experts that can be used for a variety of needs (treating patients, speaking at a conference or to the media, etc.), impartial selection and nomination for awards and committees, more equitable decisions related to promotion and/or tenure, and the ability to illuminate and eliminate gender disparities in research roles (see citation: @doi:10.1097/ACM.0000000000001261). Benefits to the Individual include: increased recognition and validation of current skills and expertise, motivation to build upon skills or gain new skills, ease of building your professional brand (i.e. describing or explaining expertise or skills to community), and increased ease of finding and engaging your network of colleagues and experts.
+Benefits to the community include:
+better discovery and selection of team members for team-based science, the creation of a directory of experts that can be used for a variety of needs (treating patients, speaking at a conference or to the media, etc.), impartial selection and nomination for awards and committees, more equitable decisions related to promotion and/or tenure, and the ability to illuminate and eliminate gender disparities in research roles (see citation: @doi:10.1097/ACM.0000000000001261).
+Benefits to the Individual include: increased recognition and validation of current skills and expertise, motivation to build upon skills or gain new skills, ease of building your professional brand (i.e. describing or explaining expertise or skills to community), and increased ease of finding and engaging your network of colleagues and experts.
 
 _Expanding measures of success_
 
-It should be noted that improving the characterisation/contextualisation of contributions, will not automatically improve the evaluation processes. The reward system of science has for so long been solely reliant on authorship and the current infrastructure that is used for hiring and promotion is not yet fully prepared to use, and benefit from descriptions of contributions. As long as scientists are being hired and promoted based on the number of publications, impact factor of journals where they published and positions in the byline, even more accurate identifiers of contributions would not improve scientific evaluation and promotion processes. Even researchers based in non-academic institutions report similar patterns in evaluation and promotion (@doi:10.1186/1472-6920-10-21). In other words, as long as institutions have not integrated accurate models of contribution such as CRediT and CRO into their workflows, journals’ adoption alone is not going to benefit the scientific community.
+It should be noted that improving the characterisation/contextualisation of contributions, will not automatically improve the evaluation processes.
+The reward system of science has for so long been solely reliant on authorship and the current infrastructure that is used for hiring and promotion is not yet fully prepared to use, and benefit from descriptions of contributions.
+As long as scientists are being hired and promoted based on the number of publications, impact factor of journals where they published and positions in the byline, even more accurate identifiers of contributions would not improve scientific evaluation and promotion processes.
+Even researchers based in non-academic institutions report similar patterns in evaluation and promotion [@doi:10.1186/1472-6920-10-21].
+In other words, as long as institutions have not integrated accurate models of contribution such as CRediT and CRO into their workflows, journals’ adoption alone is not going to benefit the scientific community.
 
 ## Manubot Experience and Evaluation
 
-In an ideal world, we would have frictionless workflows that make it easy to introduce credit and attribution to authors and beyond. In addition, workflows would allow seamless ways to promote preservation and discoverability of work. 
-Tools are being developed that help address this issue, such a [Manubot](https://manubot.org/) @doi:https://doi.org/c7np, a workflow and set up tools that promotes open and automated workflows for writing manuscripts. This commentary was generated using manubot. 
-A great advantage of using Manubot was that is was designed to traccck author contributions and made the contributions more transparent. [**Add something here about using CRO? Manubot should be be able to track our contributions in the yaml file too?**] Manubot trackers author metadata in a yaml file, which can be transfered to other manuscripts, saving time with collecting author details each time you write a manuscript. [**Can it be imported into author submission systems too, so we don't have to fill out the authorship sections in journals? That would be amazing!**] Manubot incorporates a simple workflow for tracking citations, and automatcally creates a reference list, removing the need to use a reference manager.
-Manubot is more technical to use compared to more commonly used authoring tools like Microsoft Word or Google Docs. All of the  authors were required to have a GitHub account and some basic familiarity with using GitHub, and with writing in Markdown. While Manubot tracked the contributions, the contributions are skewed towards users who are more familiar and comfortable with using GitHub and writing in Markdown. 
+In an ideal world, we would have frictionless workflows that make it easy to introduce credit and attribution to authors and beyond. In addition, workflows would allow seamless ways to promote preservation and discoverability of work.
+Tools are being developed that help address this issue, such a [Manubot](https://manubot.org/) @doi:10/c7np, a workflow and set up tools that promotes open and automated workflows for writing manuscripts. This commentary was generated using manubot.
+A great advantage of using Manubot was that is was designed to traccck author contributions and made the contributions more transparent.
+[**Add something here about using CRO? Manubot should be be able to track our contributions in the yaml file too?**]
+Manubot trackers author metadata in a yaml file, which can be transfered to other manuscripts, saving time with collecting author details each time you write a manuscript.
+[**Can it be imported into author submission systems too, so we don't have to fill out the authorship sections in journals? That would be amazing!**]
+Manubot incorporates a simple workflow for tracking citations, and automatcally creates a reference list, removing the need to use a reference manager.
+Manubot is more technical to use compared to more commonly used authoring tools like Microsoft Word or Google Docs. All of the  authors were required to have a GitHub account and some basic familiarity with using GitHub, and with writing in Markdown.
+While Manubot tracked the contributions, the contributions are skewed towards users who are more familiar and comfortable with using GitHub and writing in Markdown.
 
-Some features that would be nice to see in Manubot: [NV: not sure if these already exist? @dhimmel]
+Some features that would be nice to see in Manubot: [NV: not sure if these already exist? `@dhimmel`]
 - A way to tag other users. In google docs, you can +email someone, and they will get an email that you mentioned them in a comment, and can assign them tasks in the doc
 - is there spell check integrated somewhere?
 - can the yaml file with author metadata be converted to a spreadsheet, for easier viewing? Can the authors be reordered/alphabetized?
