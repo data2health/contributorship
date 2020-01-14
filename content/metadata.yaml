@@ -37,7 +37,7 @@ authors:
     orcid: 0000-0002-1184-911X
     email: bkern@uchicago.edu
     affiliations:
-      - University of Chicago   
+      - University of Chicago
   - name: Britton Smith
     initials: BS
     orcid: 0000-0002-6804-630X
@@ -45,25 +45,24 @@ authors:
       - University of Edinburgh
   - name: Ehsan Mohammadi
     initials: EM
-    orcid: 
+    orcid:
     affiliations:
       - University of South Carolina
   - name: Juliane Schneider
     initials: JS
-    orcid: 
-    email: 
+    orcide: 0000-0002-7664-3331
+    email:
     affiliations:
       - Harvard University
-    0000-0002-7664-3331
   - name: Julien Colomb
     initials: JC
     orcid: 0000-0002-3127-5520
-    email: 
+    email:
     affiliations:
       - Freie Universität Berlin
   - name: Karen Gutzman
     initials: KG
-    orcid: 
+    orcid:
     email: 0000-0001-6331-445
     affiliations:
       - Galter Library, Northwestern University
@@ -101,10 +100,9 @@ authors:
     email: daniel.himmelstein@gmail.com
     affiliations:
       - University of Pennsylvania
-  - name:  Marijane White
+  - name: Marijane White
     initials: MW
     orcid: 0000-0001-5059-4132
     email: whimar@ohsu.edu
     affiliations:
       - Library, Oregon Health & Science University
-     
