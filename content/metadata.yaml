@@ -6,17 +6,8 @@ keywords:
   - manubot
 lang: en-US
 authors:
-  -
-    github: johndoe
-    name: John Doe
-    initials: JD
-    orcid: XXXX-XXXX-XXXX-XXXX
-    twitter: johndoe
-    email: john.doe@something.com
-    affiliations:
-      - Department of Something, University of Whatever
-    funders: Grant XXXXXXXX
-  -
+
+ -
     github: janeroe
     name: Jane Roe
     initials: JR
@@ -25,3 +16,31 @@ authors:
     affiliations:
       - Department of Something, University of Whatever
       - Department of Whatever, University of Something
+  -
+    github: nicolevasilevsky
+    name: Nicole Vasilevsky
+    initials: NV
+    orcid: 0000-0001-5208-3432
+    twitter: n_vasilevsky
+    email: vasilevs@ohsu.edu
+    affiliations:
+      - Oregon Clinical and Translational Reseearch Institute, Oregon Health & Science University
+      - Department of Medical Informatics and Clinical Epidemiology, Oregon Health & Science University
+    funders: Grant U24 TR002306
+  -
+    github: kristiholmes
+    name: Kristi Holmes
+    initials: KH
+    orcid: 0000-0001-8420-5254
+    email: kristi.holmes@northwestern.edu
+    affiliations:
+      - Galter Library, Northwestern University
+  -
+    github: 
+    name: Barbara Kern
+    initials: BK
+    orcid: 0000-0002-1184-911X
+    email: bkern@uchicago.edu
+    affiliations:
+      - University of Chicago
+     
