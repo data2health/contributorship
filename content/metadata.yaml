@@ -125,6 +125,8 @@ authors:
     email: daniel.himmelstein@gmail.com
     affiliations:
       - University of Pennsylvania
+    roles:
+      - CREDIT_00000009 software role 
   - 
     name: Marijane White
     initials: MW
