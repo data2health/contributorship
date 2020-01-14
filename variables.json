@@ -1,0 +1,304 @@
+{
+  "pandoc": {
+    "title": "Manuscript Title",
+    "keywords": [
+      "markdown",
+      "publishing",
+      "manubot"
+    ],
+    "lang": "en-US",
+    "date-meta": "2020-01-14",
+    "author-meta": [
+      "Jane Roe",
+      "Nicole Vasilevsky",
+      "Kristi Holmes",
+      "Barbara Kern",
+      "Britton Smith",
+      "Ehsan Mohammadi",
+      "Juliane Schneider",
+      "Julien Colomb",
+      "Karen Gutzman",
+      "Mohammad Hosseini",
+      "Samantha Teplitzky",
+      "Scott Edmunds",
+      "Violeta Ilik",
+      "Daniel Himmelstein",
+      "Marijane White"
+    ],
+    "header-includes": "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"Manuscript Title\" />\n<meta name=\"citation_title\" content=\"Manuscript Title\" />\n<meta property=\"og:title\" content=\"Manuscript Title\" />\n<meta property=\"twitter:title\" content=\"Manuscript Title\" />\n<meta name=\"dc.date\" content=\"2020-01-14\" />\n<meta name=\"citation_publication_date\" content=\"2020-01-14\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Jane Roe\" />\n<meta name=\"citation_author_institution\" content=\"Department of Something, University of Whatever\" />\n<meta name=\"citation_author_institution\" content=\"Department of Whatever, University of Something\" />\n<meta name=\"citation_author_orcid\" content=\"XXXX-XXXX-XXXX-XXXX\" />\n<meta name=\"citation_author\" content=\"Nicole Vasilevsky\" />\n<meta name=\"citation_author_institution\" content=\"Oregon Clinical and Translational Reseearch Institute, Oregon Health &amp; Science University\" />\n<meta name=\"citation_author_institution\" content=\"Department of Medical Informatics and Clinical Epidemiology, Oregon Health &amp; Science University\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0001-5208-3432\" />\n<meta name=\"twitter:creator\" content=\"@n_vasilevsky\" />\n<meta name=\"citation_author\" content=\"Kristi Holmes\" />\n<meta name=\"citation_author_institution\" content=\"Galter Library, Northwestern University\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0001-8420-5254\" />\n<meta name=\"citation_author\" content=\"Barbara Kern\" />\n<meta name=\"citation_author_institution\" content=\"University of Chicago\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-1184-911X\" />\n<meta name=\"citation_author\" content=\"Britton Smith\" />\n<meta name=\"citation_author_institution\" content=\"University of Edinburgh\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-6804-630X\" />\n<meta name=\"citation_author\" content=\"Ehsan Mohammadi\" />\n<meta name=\"citation_author_institution\" content=\"University of South Carolina\" />\n<meta name=\"citation_author_orcid\" content=\"None\" />\n<meta name=\"citation_author\" content=\"Juliane Schneider\" />\n<meta name=\"citation_author_institution\" content=\"Harvard University\" />\n<meta name=\"citation_author\" content=\"Julien Colomb\" />\n<meta name=\"citation_author_institution\" content=\"Freie Universität Berlin\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-3127-5520\" />\n<meta name=\"citation_author\" content=\"Karen Gutzman\" />\n<meta name=\"citation_author_institution\" content=\"Galter Library, Northwestern University\" />\n<meta name=\"citation_author_orcid\" content=\"None\" />\n<meta name=\"citation_author\" content=\"Mohammad Hosseini\" />\n<meta name=\"citation_author_institution\" content=\"Dublin City University\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-2385-985X\" />\n<meta name=\"citation_author\" content=\"Samantha Teplitzky\" />\n<meta name=\"citation_author_institution\" content=\"University of California, Berkeley\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0001-7071-332X\" />\n<meta name=\"citation_author\" content=\"Scott Edmunds\" />\n<meta name=\"citation_author_institution\" content=\"GigaScience\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0001-6444-1436\" />\n<meta name=\"citation_author\" content=\"Violeta Ilik\" />\n<meta name=\"citation_author_institution\" content=\"Library, Columbia University\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-2588-3084\" />\n<meta name=\"citation_author\" content=\"Daniel Himmelstein\" />\n<meta name=\"citation_author_institution\" content=\"University of Pennsylvania\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-3012-7446\" />\n<meta name=\"citation_author\" content=\"Marijane White\" />\n<meta name=\"citation_author_institution\" content=\"Library, Oregon Health &amp; Science University\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0001-5059-4132\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->",
+    "bibliography": [
+      "content/manual-references.json"
+    ],
+    "manubot-output-bibliography": "output/references.json",
+    "manubot-output-citekeys": "output/citations.tsv",
+    "manubot-requests-cache-path": "ci/cache/requests-cache",
+    "manubot-clear-requests-cache": false
+  },
+  "manubot": {
+    "date": "January 14, 2020",
+    "authors": [
+      {
+        "github": "janeroe",
+        "name": "Jane Roe",
+        "initials": "JR",
+        "orcid": "XXXX-XXXX-XXXX-XXXX",
+        "email": "jane.roe@whatever.edu",
+        "affiliations": [
+          "Department of Something, University of Whatever",
+          "Department of Whatever, University of Something"
+        ],
+        "affiliation_numbers": [
+          1,
+          2
+        ]
+      },
+      {
+        "github": "nicolevasilevsky",
+        "name": "Nicole Vasilevsky",
+        "initials": "NV",
+        "orcid": "0000-0001-5208-3432",
+        "twitter": "n_vasilevsky",
+        "email": "vasilevs@ohsu.edu",
+        "affiliations": [
+          "Oregon Clinical and Translational Reseearch Institute, Oregon Health & Science University",
+          "Department of Medical Informatics and Clinical Epidemiology, Oregon Health & Science University"
+        ],
+        "funders": "Grant U24 TR002306",
+        "affiliation_numbers": [
+          3,
+          4
+        ]
+      },
+      {
+        "github": "kristiholmes",
+        "name": "Kristi Holmes",
+        "initials": "KH",
+        "orcid": "0000-0001-8420-5254",
+        "email": "kristi.holmes@northwestern.edu",
+        "affiliations": [
+          "Galter Library, Northwestern University"
+        ],
+        "affiliation_numbers": [
+          5
+        ]
+      },
+      {
+        "github": null,
+        "name": "Barbara Kern",
+        "initials": "BK",
+        "orcid": "0000-0002-1184-911X",
+        "email": "bkern@uchicago.edu",
+        "affiliations": [
+          "University of Chicago"
+        ],
+        "affiliation_numbers": [
+          6
+        ]
+      },
+      {
+        "name": "Britton Smith",
+        "initials": "BS",
+        "orcid": "0000-0002-6804-630X",
+        "affiliations": [
+          "University of Edinburgh"
+        ],
+        "affiliation_numbers": [
+          7
+        ]
+      },
+      {
+        "name": "Ehsan Mohammadi",
+        "initials": "EM",
+        "orcid": null,
+        "affiliations": [
+          "University of South Carolina"
+        ],
+        "affiliation_numbers": [
+          8
+        ]
+      },
+      {
+        "name": "Juliane Schneider",
+        "initials": "JS",
+        "orcide": "0000-0002-7664-3331",
+        "email": null,
+        "affiliations": [
+          "Harvard University"
+        ],
+        "affiliation_numbers": [
+          9
+        ]
+      },
+      {
+        "name": "Julien Colomb",
+        "initials": "JC",
+        "orcid": "0000-0002-3127-5520",
+        "email": null,
+        "affiliations": [
+          "Freie Universität Berlin"
+        ],
+        "affiliation_numbers": [
+          10
+        ]
+      },
+      {
+        "name": "Karen Gutzman",
+        "initials": "KG",
+        "orcid": null,
+        "email": "0000-0001-6331-445",
+        "affiliations": [
+          "Galter Library, Northwestern University"
+        ],
+        "affiliation_numbers": [
+          5
+        ]
+      },
+      {
+        "name": "Mohammad Hosseini",
+        "initials": "MH",
+        "orcid": "0000-0002-2385-985X",
+        "email": "mohammad.hosseini@dcu.ie",
+        "affiliations": [
+          "Dublin City University"
+        ],
+        "affiliation_numbers": [
+          11
+        ]
+      },
+      {
+        "github": "samteplitzky",
+        "name": "Samantha Teplitzky",
+        "initials": "ST",
+        "orcid": "0000-0001-7071-332X",
+        "email": "steplitz@berkeley.edu",
+        "affiliations": [
+          "University of California, Berkeley"
+        ],
+        "affiliation_numbers": [
+          12
+        ]
+      },
+      {
+        "name": "Scott Edmunds",
+        "initials": "SE",
+        "orcid": "0000-0001-6444-1436",
+        "email": "scott@gigasciencejournal.com",
+        "affiliations": [
+          "GigaScience"
+        ],
+        "affiliation_numbers": [
+          13
+        ]
+      },
+      {
+        "github": "vioil",
+        "name": "Violeta Ilik",
+        "initials": "VI",
+        "orcid": "0000-0003-2588-3084",
+        "email": "ilik.violeta@gmail.com",
+        "affiliations": [
+          "Library, Columbia University"
+        ],
+        "affiliation_numbers": [
+          14
+        ]
+      },
+      {
+        "github": "dhimmel",
+        "name": "Daniel Himmelstein",
+        "initials": "DH",
+        "orcid": "0000-0002-3012-7446",
+        "email": "daniel.himmelstein@gmail.com",
+        "affiliations": [
+          "University of Pennsylvania"
+        ],
+        "affiliation_numbers": [
+          15
+        ]
+      },
+      {
+        "name": "Marijane White",
+        "initials": "MW",
+        "orcid": "0000-0001-5059-4132",
+        "email": "whimar@ohsu.edu",
+        "affiliations": [
+          "Library, Oregon Health & Science University"
+        ],
+        "affiliation_numbers": [
+          16
+        ]
+      }
+    ],
+    "affiliations": [
+      {
+        "affiliation": "Department of Something, University of Whatever",
+        "affiliation_number": 1
+      },
+      {
+        "affiliation": "Department of Whatever, University of Something",
+        "affiliation_number": 2
+      },
+      {
+        "affiliation": "Oregon Clinical and Translational Reseearch Institute, Oregon Health & Science University",
+        "affiliation_number": 3
+      },
+      {
+        "affiliation": "Department of Medical Informatics and Clinical Epidemiology, Oregon Health & Science University",
+        "affiliation_number": 4
+      },
+      {
+        "affiliation": "Galter Library, Northwestern University",
+        "affiliation_number": 5
+      },
+      {
+        "affiliation": "University of Chicago",
+        "affiliation_number": 6
+      },
+      {
+        "affiliation": "University of Edinburgh",
+        "affiliation_number": 7
+      },
+      {
+        "affiliation": "University of South Carolina",
+        "affiliation_number": 8
+      },
+      {
+        "affiliation": "Harvard University",
+        "affiliation_number": 9
+      },
+      {
+        "affiliation": "Freie Universität Berlin",
+        "affiliation_number": 10
+      },
+      {
+        "affiliation": "Dublin City University",
+        "affiliation_number": 11
+      },
+      {
+        "affiliation": "University of California, Berkeley",
+        "affiliation_number": 12
+      },
+      {
+        "affiliation": "GigaScience",
+        "affiliation_number": 13
+      },
+      {
+        "affiliation": "Library, Columbia University",
+        "affiliation_number": 14
+      },
+      {
+        "affiliation": "University of Pennsylvania",
+        "affiliation_number": 15
+      },
+      {
+        "affiliation": "Library, Oregon Health & Science University",
+        "affiliation_number": 16
+      }
+    ],
+    "manubot_version": "0.3.0",
+    "rootstock_commit": null,
+    "manuscript_stats": {
+      "word_count": 1251
+    }
+  }
+}
