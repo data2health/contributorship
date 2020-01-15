@@ -34,26 +34,28 @@ authors:
     name: Britton Smith
     initials: BS
     orcid: 0000-0002-6804-630X
+    email: britton.smith@ed.ac.uk
     affiliations:
       - University of Edinburgh
   - 
     name: Ehsan Mohammadi
     initials: EM
-    orcid:
+    orcid: 0000-0003-3481-6991
+    email: EHSAN2@mailbox.sc.edu
     affiliations:
       - University of South Carolina
   - 
     name: Juliane Schneider
     initials: JS
     orcide: 0000-0002-7664-3331
-    email:
+    email: juliane_schneider@hms.harvard.edu
     affiliations:
       - Harvard University
   - 
     name: Julien Colomb
     initials: JC
     orcid: 0000-0002-3127-5520
-    email:
+    email: julien.colomb@fu-berlin.de
     affiliations:
       - Freie Universität Berlin
     roles:
@@ -61,11 +63,11 @@ authors:
   - 
     name: Karen Gutzman
     initials: KG
-    orcid:
-    email: 0000-0001-6331-445
+    orcid: 0000-0001-6331-4451
+    email: karen.gutzman@northwestern.edu
     affiliations:
-      - Galter Library, Northwestern University
-    funders: Grant# U24 TR002306
+      - Galter Health Sciences Library and Learning Center, Northwestern University Feinberg School of Medicine
+    funders: Grant# UL1TR001422
     roles:
       - CREDIT_00000013 writing original draft role
       - CRO_0000006 background and literature search role
@@ -132,8 +134,9 @@ authors:
     orcid: 0000-0001-8420-5254
     email: kristi.holmes@northwestern.edu
     affiliations:
-      - Galter Library, Northwestern University
-    funders: Grant U24# TR002306
+      - Department of Preventive Medicine, Northwestern University Feinberg School of Medicine
+      - Galter Health Sciences Library and Learning Center, Northwestern University Feinberg School of Medicine
+    funders: Grant# U24TR002306, UL1TR001422
     roles:
       - CRO_0000081 coordination role 
       - CREDIT_00000013 writing original draft role    
