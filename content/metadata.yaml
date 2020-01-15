@@ -23,18 +23,6 @@ authors:
       - CRO_0000081 coordination role
       - CREDIT_00000013 writing original draft role
   - 
-    github: kristiholmes
-    name: Kristi Holmes
-    initials: KH
-    orcid: 0000-0001-8420-5254
-    email: kristi.holmes@northwestern.edu
-    affiliations:
-      - Galter Library, Northwestern University
-    funders: Grant U24# TR002306
-    roles:
-      - CRO_0000081 coordination role 
-      - CREDIT_00000013 writing original draft role
-  - 
     github:
     name: Barbara Kern
     initials: BK
@@ -137,3 +125,15 @@ authors:
     affiliations:
       - Library, Oregon Health & Science University
     funders: Grant# U24 TR002306
+- 
+    github: kristiholmes
+    name: Kristi Holmes
+    initials: KH
+    orcid: 0000-0001-8420-5254
+    email: kristi.holmes@northwestern.edu
+    affiliations:
+      - Galter Library, Northwestern University
+    funders: Grant U24# TR002306
+    roles:
+      - CRO_0000081 coordination role 
+      - CREDIT_00000013 writing original draft role    
