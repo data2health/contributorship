@@ -45,12 +45,15 @@ authors:
     affiliations:
       - University of South Carolina
   - 
+    github: pitviper6
     name: Juliane Schneider
     initials: JS
     orcide: 0000-0002-7664-3331
     email: juliane_schneider@hms.harvard.edu
     affiliations:
       - Harvard University
+    roles:
+      - CREDIT_00000013 writing original draft role
   - 
     name: Julien Colomb
     initials: JC
