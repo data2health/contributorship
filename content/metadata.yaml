@@ -19,9 +19,12 @@ authors:
       - Oregon Clinical and Translational Reseearch Institute, Oregon Health & Science University
       - Department of Medical Informatics and Clinical Epidemiology, Oregon Health & Science University
     funders: Grant# U24 TR002306
-    roles:
+    roles:      
+      - CREDIT_00000001 conceptualization role
       - CRO_0000081 coordination role
+      - CRO_0000052 standards role
       - CREDIT_00000013 writing original draft role
+
   - 
     name: Julien Colomb
     initials: JC
