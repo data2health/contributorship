@@ -23,6 +23,72 @@ authors:
       - CRO_0000081 coordination role
       - CREDIT_00000013 writing original draft role
   - 
+    name: Julien Colomb
+    initials: JC
+    orcid: 0000-0002-3127-5520
+    email: julien.colomb@fu-berlin.de
+    affiliations:
+      - Freie Universität Berlin
+    roles:
+      - CREDIT_00000013 writing original draft role
+  -
+    name: Scott Edmunds
+    initials: SE
+    orcid: 0000-0001-6444-1436
+    email: scott@gigasciencejournal.com
+    affiliations:
+      - GigaScience
+    roles:
+      - CREDIT_00000013 writing original draft role
+  - 
+    name: Karen Gutzman
+    initials: KG
+    orcid: 0000-0001-6331-4451
+    email: karen.gutzman@northwestern.edu
+    affiliations:
+      - Galter Health Sciences Library and Learning Center, Northwestern University Feinberg School of Medicine
+    funders: Grant# UL1TR001422
+    roles:
+      - CREDIT_00000013 writing original draft role
+      - CRO_0000006 background and literature search role
+ - 
+    github: mellybelly
+    name: Melissa Haendel
+    initials: MH
+    orcid: 0000-0001-9114-8737
+    email: melissa@tislab.org
+    affiliations:
+      - Oregon Health & Science University
+ - 
+    github: dhimmel
+    name: Daniel Himmelstein
+    initials: DH
+    orcid: 0000-0002-3012-7446
+    email: daniel.himmelstein@gmail.com
+    affiliations:
+      - University of Pennsylvania
+    roles:
+      - CREDIT_00000009 software role 
+ - 
+    name: Mohammad Hosseini
+    initials: MH
+    orcid: 0000-0002-2385-985X
+    email: mohammad.hosseini@dcu.ie
+    affiliations:
+      - Dublin City University
+    roles:
+      - CREDIT_00000013 writing original draft role  
+  - 
+    github: vioil
+    name: Violeta Ilik
+    initials: VI
+    orcid: 0000-0003-2588-3084
+    email: ilik.violeta@gmail.com
+    affiliations:
+      - Library, Columbia University
+    roles:
+      - CREDIT_00000013 writing original draft role
+  - 
     github:
     name: Barbara Kern
     initials: BK
@@ -30,13 +96,6 @@ authors:
     email: bkern@uchicago.edu
     affiliations:
       - University of Chicago
-  - 
-    name: Britton Smith
-    initials: BS
-    orcid: 0000-0002-6804-630X
-    email: britton.smith@ed.ac.uk
-    affiliations:
-      - University of Edinburgh
   - 
     name: Ehsan Mohammadi
     initials: EM
@@ -55,34 +114,12 @@ authors:
     roles:
       - CREDIT_00000013 writing original draft role
   - 
-    name: Julien Colomb
-    initials: JC
-    orcid: 0000-0002-3127-5520
-    email: julien.colomb@fu-berlin.de
+    name: Britton Smith
+    initials: BS
+    orcid: 0000-0002-6804-630X
+    email: britton.smith@ed.ac.uk
     affiliations:
-      - Freie Universität Berlin
-    roles:
-      - CREDIT_00000013 writing original draft role
-  - 
-    name: Karen Gutzman
-    initials: KG
-    orcid: 0000-0001-6331-4451
-    email: karen.gutzman@northwestern.edu
-    affiliations:
-      - Galter Health Sciences Library and Learning Center, Northwestern University Feinberg School of Medicine
-    funders: Grant# UL1TR001422
-    roles:
-      - CREDIT_00000013 writing original draft role
-      - CRO_0000006 background and literature search role
-  - 
-    name: Mohammad Hosseini
-    initials: MH
-    orcid: 0000-0002-2385-985X
-    email: mohammad.hosseini@dcu.ie
-    affiliations:
-      - Dublin City University
-    roles:
-      - CREDIT_00000013 writing original draft role  
+      - University of Edinburgh  
   - 
     github: samteplitzky
     name: Samantha Teplitzky
@@ -93,35 +130,6 @@ authors:
       - University of California, Berkeley
     roles:
       - CREDIT_00000013 writing original draft role  
-  -
-    name: Scott Edmunds
-    initials: SE
-    orcid: 0000-0001-6444-1436
-    email: scott@gigasciencejournal.com
-    affiliations:
-      - GigaScience
-    roles:
-      - CREDIT_00000013 writing original draft role
-  - 
-    github: vioil
-    name: Violeta Ilik
-    initials: VI
-    orcid: 0000-0003-2588-3084
-    email: ilik.violeta@gmail.com
-    affiliations:
-      - Library, Columbia University
-    roles:
-      - CREDIT_00000013 writing original draft role
-  - 
-    github: dhimmel
-    name: Daniel Himmelstein
-    initials: DH
-    orcid: 0000-0002-3012-7446
-    email: daniel.himmelstein@gmail.com
-    affiliations:
-      - University of Pennsylvania
-    roles:
-      - CREDIT_00000009 software role 
   - 
     name: Marijane White
     initials: MW
