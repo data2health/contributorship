@@ -30,9 +30,8 @@ authors:
     orcid: 0000-0002-3127-5520
     email: julien.colomb@fu-berlin.de
     affiliations:
-      - Humboldt-Universität zu Berlin, SFB1315, Institut für Biologie, Charitéplatz 1,
-  10117 Berlin
-    funders: funded by the German Research Foundation, grant_number 327654276: SFB 1315
+      - Humboldt-Universität zu Berlin, SFB1315, Institut für Biologie, Charitéplatz 1, 10117 Berlin
+    funders: 'The German Research Foundation, Grant Number 327654276: SFB 1315'
     roles:
       - CREDIT_00000013 writing original draft role
       - CREDIT_00000009 sotware role
@@ -64,7 +63,7 @@ authors:
     email: melissa@tislab.org
     affiliations:
       - Oregon Health & Science University
- - 
+  -
     github: dhimmel
     name: Daniel Himmelstein
     initials: DH
@@ -75,7 +74,7 @@ authors:
     roles:
       - CREDIT_00000009 software role 
       - CRO_0000064 software engineering role
- - 
+  - 
     name: Mohammad Hosseini
     initials: MH
     orcid: 0000-0002-2385-985X
