@@ -24,7 +24,6 @@ authors:
       - CRO_0000081 coordination role
       - CRO_0000052 standards role
       - CREDIT_00000013 writing original draft role
-
   - 
     name: Julien Colomb
     initials: JC
@@ -54,7 +53,7 @@ authors:
     roles:
       - CREDIT_00000013 writing original draft role
       - CRO_0000006 background and literature search role
- - 
+  - 
     github: mellybelly
     name: Melissa Haendel
     initials: MH
@@ -72,6 +71,7 @@ authors:
       - University of Pennsylvania
     roles:
       - CREDIT_00000009 software role 
+      - CRO_0000064 software engineering role
  - 
     name: Mohammad Hosseini
     initials: MH
