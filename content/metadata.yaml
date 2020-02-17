@@ -15,9 +15,9 @@ authors:
     twitter: n_vasilevsky
     email: vasilevs@ohsu.edu
     affiliations:
-      - Oregon Clinical and Translational Reseearch Institute, Oregon Health & Science University
+      - Oregon Clinical and Translational Research Institute, Oregon Health & Science University
       - Department of Medical Informatics and Clinical Epidemiology, Oregon Health & Science University
-    funders: Grant# U24 TR002306
+    funders: Grant# NCATS U24TR002306
     roles:
       - CREDIT_00000001 conceptualization role
       - CRO_0000081 coordination role
@@ -57,7 +57,14 @@ authors:
     orcid: 0000-0001-9114-8737
     email: melissa@tislab.org
     affiliations:
-      - Oregon Health & Science University
+      - Oregon Clinical and Translational Research Institute, Oregon Health & Science University
+      - Linus Pauling Institute, Oregon State University
+    funders: Grant# NCATS U24TR002306 
+    roles: 
+      - CREDIT_00000013 writing original draft role
+      - CRO_0000052 'standards role'
+      - CREDIT_00000002 ‘data curation role’
+      - CREDIT_00000004 'funding acquisition role' 
   - github: dhimmel
     name: Daniel Himmelstein
     initials: DH
