@@ -24,6 +24,36 @@ authors:
       - CREDIT_00000002 data curation role
       - CRO_0000052 standards role
       - CREDIT_00000013 writing original draft role
+   - name: Mohammad Hosseini
+    initials: MH
+    orcid: 0000-0002-2385-985X
+    email: mohammad.hosseini@dcu.ie
+    affiliations:
+      - Dublin City University
+    roles:
+      - CREDIT_00000013 writing original draft role
+      - CREDIT_00000001 conceptualization role
+ - github: samteplitzky
+    name: Samantha Teplitzky
+    initials: ST
+    orcid: 0000-0001-7071-332X
+    email: steplitz@berkeley.edu
+    affiliations:
+      - University of California, Berkeley
+    roles:
+      - CREDIT_00000013 writing original draft role
+      - CREDIT_00000001 conceptualization role     
+ - github: vioil
+    name: Violeta Ilik
+    initials: VI
+    orcid: 0000-0003-2588-3084
+    email: ilik.violeta@gmail.com
+    affiliations:
+      - Library, Columbia University
+    roles:
+      - CREDIT_00000013 writing original draft role
+      - CREDIT_00000002 data curation role
+      - CREDIT_00000001 conceptualization role       
   - name: Julien Colomb
     initials: JC
     orcid: 0000-0002-3127-5520
@@ -78,26 +108,6 @@ authors:
     roles:
       - CREDIT_00000009 software role
       - CRO_0000064 software engineering role
-  - name: Mohammad Hosseini
-    initials: MH
-    orcid: 0000-0002-2385-985X
-    email: mohammad.hosseini@dcu.ie
-    affiliations:
-      - Dublin City University
-    roles:
-      - CREDIT_00000013 writing original draft role
-      - CREDIT_00000001 conceptualization role
-  - github: vioil
-    name: Violeta Ilik
-    initials: VI
-    orcid: 0000-0003-2588-3084
-    email: ilik.violeta@gmail.com
-    affiliations:
-      - Library, Columbia University
-    roles:
-      - CREDIT_00000013 writing original draft role
-      - CREDIT_00000002 data curation role
-      - CREDIT_00000001 conceptualization role
   - github:
     name: Barbara Kern
     initials: BK
@@ -140,16 +150,7 @@ authors:
       - University of Edinburgh
     roles:
       - CREDIT_00000001 conceptualization role
-  - github: samteplitzky
-    name: Samantha Teplitzky
-    initials: ST
-    orcid: 0000-0001-7071-332X
-    email: steplitz@berkeley.edu
-    affiliations:
-      - University of California, Berkeley
-    roles:
-      - CREDIT_00000013 writing original draft role
-      - CREDIT_00000001 conceptualization role
+  
   - name: Marijane White
     initials: MW
     orcid: 0000-0001-5059-4132
