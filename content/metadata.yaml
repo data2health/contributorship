@@ -130,7 +130,7 @@ authors:
     funders: Grant# U24 TR002306
     roles:
       - CRO_0000052 standards role
- - name: Britton Smith
+  - name: Britton Smith
     initials: BS
     orcid: 0000-0002-6804-630X
     email: britton.smith@ed.ac.uk
@@ -138,14 +138,14 @@ authors:
       - University of Edinburgh
     roles:
       - CREDIT_00000001 conceptualization role
- - name: Lisa O'Keefe
+  - name: Lisa O'Keefe
     initials: LO
     email: lisa.okeefe@northwestern.edu
     affiliations:
       - Galter Health Sciences Library and Learning Center, Northwestern University Feinberg School of Medicine
     roles:
       - CRO_0000081 coordination role
- - github: mellybelly
+  - github: mellybelly
     name: Melissa Haendel
     initials: MH
     orcid: 0000-0001-9114-8737
@@ -159,7 +159,7 @@ authors:
       - CRO_0000052 'standards role'
       - CREDIT_00000002 ‘data curation role’
       - CREDIT_00000004 'funding acquisition role' 
- - github: kristiholmes
+  - github: kristiholmes
     name: Kristi Holmes
     initials: KH
     orcid: 0000-0001-8420-5254
