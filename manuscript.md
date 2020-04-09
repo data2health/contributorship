@@ -1,25 +1,25 @@
 ---
 author-meta:
 - Nicole Vasilevsky
+- Mohammad Hosseini
+- Samantha Teplitzky
+- Violeta Ilik
+- Ehsan Mohammadi
+- Juliane Schneider
+- Barbara Kern
 - Julien Colomb
 - Scott Edmunds
 - Karen Gutzman
-- Melissa Haendel
 - Daniel Himmelstein
-- Mohammad Hosseini
-- Violeta Ilik
-- Barbara Kern
-- Ehsan Mohammadi
-- Lisa O'Keefe
-- Juliane Schneider
-- Britton Smith
-- Samantha Teplitzky
 - Marijane White
+- Britton Smith
+- Lisa O'Keefe
+- Melissa Haendel
 - Kristi Holmes
 bibliography:
 - content/manual-references.json
-date-meta: '2020-04-08'
-header-includes: "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"Major challenges on authorship and concept of authorship - why is something more needed on contributorship?\" />\n<meta name=\"citation_title\" content=\"Major challenges on authorship and concept of authorship - why is something more needed on contributorship?\" />\n<meta property=\"og:title\" content=\"Major challenges on authorship and concept of authorship - why is something more needed on contributorship?\" />\n<meta property=\"twitter:title\" content=\"Major challenges on authorship and concept of authorship - why is something more needed on contributorship?\" />\n<meta name=\"dc.date\" content=\"2020-04-08\" />\n<meta name=\"citation_publication_date\" content=\"2020-04-08\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Nicole Vasilevsky\" />\n<meta name=\"citation_author_institution\" content=\"Oregon Clinical and Translational Research Institute, Oregon Health &amp; Science University\" />\n<meta name=\"citation_author_institution\" content=\"Department of Medical Informatics and Clinical Epidemiology, Oregon Health &amp; Science University\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0001-5208-3432\" />\n<meta name=\"twitter:creator\" content=\"@n_vasilevsky\" />\n<meta name=\"citation_author\" content=\"Julien Colomb\" />\n<meta name=\"citation_author_institution\" content=\"Humboldt-Universit\xE4t zu Berlin, SFB1315, Institut f\xFCr Biologie, Charit\xE9platz 1, 10117 Berlin\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-3127-5520\" />\n<meta name=\"citation_author\" content=\"Scott Edmunds\" />\n<meta name=\"citation_author_institution\" content=\"GigaScience\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0001-6444-1436\" />\n<meta name=\"citation_author\" content=\"Karen Gutzman\" />\n<meta name=\"citation_author_institution\" content=\"Galter Health Sciences Library and Learning Center, Northwestern University Feinberg School of Medicine\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0001-6331-4451\" />\n<meta name=\"citation_author\" content=\"Melissa Haendel\" />\n<meta name=\"citation_author_institution\" content=\"Oregon Clinical and Translational Research Institute, Oregon Health &amp; Science University\" />\n<meta name=\"citation_author_institution\" content=\"Linus Pauling Institute, Oregon State University\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0001-9114-8737\" />\n<meta name=\"citation_author\" content=\"Daniel Himmelstein\" />\n<meta name=\"citation_author_institution\" content=\"University of Pennsylvania\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-3012-7446\" />\n<meta name=\"citation_author\" content=\"Mohammad Hosseini\" />\n<meta name=\"citation_author_institution\" content=\"Dublin City University\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-2385-985X\" />\n<meta name=\"citation_author\" content=\"Violeta Ilik\" />\n<meta name=\"citation_author_institution\" content=\"Library, Columbia University\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-2588-3084\" />\n<meta name=\"citation_author\" content=\"Barbara Kern\" />\n<meta name=\"citation_author_institution\" content=\"University of Chicago\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-1184-911X\" />\n<meta name=\"citation_author\" content=\"Ehsan Mohammadi\" />\n<meta name=\"citation_author_institution\" content=\"University of South Carolina\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-3481-6991\" />\n<meta name=\"citation_author\" content=\"Lisa O&#39;Keefe\" />\n<meta name=\"citation_author_institution\" content=\"Galter Health Sciences Library and Learning Center, Northwestern University Feinberg School of Medicine\" />\n<meta name=\"citation_author\" content=\"Juliane Schneider\" />\n<meta name=\"citation_author_institution\" content=\"Harvard University\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-7664-3331\" />\n<meta name=\"citation_author\" content=\"Britton Smith\" />\n<meta name=\"citation_author_institution\" content=\"University of Edinburgh\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-6804-630X\" />\n<meta name=\"citation_author\" content=\"Samantha Teplitzky\" />\n<meta name=\"citation_author_institution\" content=\"University of California, Berkeley\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0001-7071-332X\" />\n<meta name=\"citation_author\" content=\"Marijane White\" />\n<meta name=\"citation_author_institution\" content=\"Library, Oregon Health &amp; Science University\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0001-5059-4132\" />\n<meta name=\"citation_author\" content=\"Kristi Holmes\" />\n<meta name=\"citation_author_institution\" content=\"Department of Preventive Medicine, Northwestern University Feinberg School of Medicine\" />\n<meta name=\"citation_author_institution\" content=\"Galter Health Sciences Library and Learning Center, Northwestern University Feinberg School of Medicine\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0001-8420-5254\" />\n<link rel=\"canonical\" href=\"https://data2health.github.io/contributorship/\" />\n<meta property=\"og:url\" content=\"https://data2health.github.io/contributorship/\" />\n<meta property=\"twitter:url\" content=\"https://data2health.github.io/contributorship/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://data2health.github.io/contributorship/\" />\n<meta name=\"citation_pdf_url\" content=\"https://data2health.github.io/contributorship/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://data2health.github.io/contributorship/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://data2health.github.io/contributorship/v/da7077615a5e4273f583526ce9bb110f19161bd7/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://data2health.github.io/contributorship/v/da7077615a5e4273f583526ce9bb110f19161bd7/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://data2health.github.io/contributorship/v/da7077615a5e4273f583526ce9bb110f19161bd7/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->"
+date-meta: '2020-04-09'
+header-includes: "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"Major challenges on authorship and concept of authorship - why is something more needed on contributorship?\" />\n<meta name=\"citation_title\" content=\"Major challenges on authorship and concept of authorship - why is something more needed on contributorship?\" />\n<meta property=\"og:title\" content=\"Major challenges on authorship and concept of authorship - why is something more needed on contributorship?\" />\n<meta property=\"twitter:title\" content=\"Major challenges on authorship and concept of authorship - why is something more needed on contributorship?\" />\n<meta name=\"dc.date\" content=\"2020-04-09\" />\n<meta name=\"citation_publication_date\" content=\"2020-04-09\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Nicole Vasilevsky\" />\n<meta name=\"citation_author_institution\" content=\"Oregon Clinical and Translational Research Institute, Oregon Health &amp; Science University\" />\n<meta name=\"citation_author_institution\" content=\"Department of Medical Informatics and Clinical Epidemiology, Oregon Health &amp; Science University\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0001-5208-3432\" />\n<meta name=\"twitter:creator\" content=\"@n_vasilevsky\" />\n<meta name=\"citation_author\" content=\"Mohammad Hosseini\" />\n<meta name=\"citation_author_institution\" content=\"Dublin City University\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-2385-985X\" />\n<meta name=\"citation_author\" content=\"Samantha Teplitzky\" />\n<meta name=\"citation_author_institution\" content=\"University of California, Berkeley\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0001-7071-332X\" />\n<meta name=\"citation_author\" content=\"Violeta Ilik\" />\n<meta name=\"citation_author_institution\" content=\"Library, Columbia University\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-2588-3084\" />\n<meta name=\"citation_author\" content=\"Ehsan Mohammadi\" />\n<meta name=\"citation_author_institution\" content=\"University of South Carolina\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-3481-6991\" />\n<meta name=\"citation_author\" content=\"Juliane Schneider\" />\n<meta name=\"citation_author_institution\" content=\"Harvard University\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-7664-3331\" />\n<meta name=\"citation_author\" content=\"Barbara Kern\" />\n<meta name=\"citation_author_institution\" content=\"University of Chicago\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-1184-911X\" />\n<meta name=\"citation_author\" content=\"Julien Colomb\" />\n<meta name=\"citation_author_institution\" content=\"Humboldt-Universit\xE4t zu Berlin, SFB1315, Institut f\xFCr Biologie, Charit\xE9platz 1, 10117 Berlin\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-3127-5520\" />\n<meta name=\"citation_author\" content=\"Scott Edmunds\" />\n<meta name=\"citation_author_institution\" content=\"GigaScience\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0001-6444-1436\" />\n<meta name=\"citation_author\" content=\"Karen Gutzman\" />\n<meta name=\"citation_author_institution\" content=\"Galter Health Sciences Library and Learning Center, Northwestern University Feinberg School of Medicine\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0001-6331-4451\" />\n<meta name=\"citation_author\" content=\"Daniel Himmelstein\" />\n<meta name=\"citation_author_institution\" content=\"University of Pennsylvania\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-3012-7446\" />\n<meta name=\"citation_author\" content=\"Marijane White\" />\n<meta name=\"citation_author_institution\" content=\"Library, Oregon Health &amp; Science University\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0001-5059-4132\" />\n<meta name=\"citation_author\" content=\"Britton Smith\" />\n<meta name=\"citation_author_institution\" content=\"University of Edinburgh\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-6804-630X\" />\n<meta name=\"citation_author\" content=\"Lisa O&#39;Keefe\" />\n<meta name=\"citation_author_institution\" content=\"Galter Health Sciences Library and Learning Center, Northwestern University Feinberg School of Medicine\" />\n<meta name=\"citation_author\" content=\"Melissa Haendel\" />\n<meta name=\"citation_author_institution\" content=\"Oregon Clinical and Translational Research Institute, Oregon Health &amp; Science University\" />\n<meta name=\"citation_author_institution\" content=\"Linus Pauling Institute, Oregon State University\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0001-9114-8737\" />\n<meta name=\"citation_author\" content=\"Kristi Holmes\" />\n<meta name=\"citation_author_institution\" content=\"Department of Preventive Medicine, Northwestern University Feinberg School of Medicine\" />\n<meta name=\"citation_author_institution\" content=\"Galter Health Sciences Library and Learning Center, Northwestern University Feinberg School of Medicine\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0001-8420-5254\" />\n<link rel=\"canonical\" href=\"https://data2health.github.io/contributorship/\" />\n<meta property=\"og:url\" content=\"https://data2health.github.io/contributorship/\" />\n<meta property=\"twitter:url\" content=\"https://data2health.github.io/contributorship/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://data2health.github.io/contributorship/\" />\n<meta name=\"citation_pdf_url\" content=\"https://data2health.github.io/contributorship/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://data2health.github.io/contributorship/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://data2health.github.io/contributorship/v/bec492d69007e9fc79a1f0b0585c1593b4368a14/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://data2health.github.io/contributorship/v/bec492d69007e9fc79a1f0b0585c1593b4368a14/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://data2health.github.io/contributorship/v/bec492d69007e9fc79a1f0b0585c1593b4368a14/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->"
 keywords:
 - authorship
 - contributorship
@@ -41,10 +41,10 @@ title: Major challenges on authorship and concept of authorship - why is somethi
 
 <small><em>
 This manuscript
-([permalink](https://data2health.github.io/contributorship/v/da7077615a5e4273f583526ce9bb110f19161bd7/))
+([permalink](https://data2health.github.io/contributorship/v/bec492d69007e9fc79a1f0b0585c1593b4368a14/))
 was automatically generated
-from [data2health/contributorship@da70776](https://github.com/data2health/contributorship/tree/da7077615a5e4273f583526ce9bb110f19161bd7)
-on April 8, 2020.
+from [data2health/contributorship@bec492d](https://github.com/data2health/contributorship/tree/bec492d69007e9fc79a1f0b0585c1593b4368a14)
+on April 9, 2020.
 </em></small>
 
 ## Authors
@@ -68,6 +68,77 @@ CREDIT_00000013 writing original draft role">5 roles</a>
   <small>
      Oregon Clinical and Translational Research Institute, Oregon Health & Science University; Department of Medical Informatics and Clinical Epidemiology, Oregon Health & Science University
      · Funded by Grant# NCATS U24TR002306
+  </small>
+
++ **Mohammad Hosseini**<br>
+    ![ORCID icon](images/orcid.svg){.inline_icon}
+    [0000-0002-2385-985X](https://orcid.org/0000-0002-2385-985X)
+    · ![contributor roles icon](images/pencil-ruler-solid.svg){.inline_icon}
+    <a title="CREDIT_00000013 writing original draft role
+CREDIT_00000001 conceptualization role">2 roles</a>
+  <br>
+  <small>
+     Dublin City University
+  </small>
+
++ **Samantha Teplitzky**<br>
+    ![ORCID icon](images/orcid.svg){.inline_icon}
+    [0000-0001-7071-332X](https://orcid.org/0000-0001-7071-332X)
+    · ![GitHub icon](images/github.svg){.inline_icon}
+    [samteplitzky](https://github.com/samteplitzky)
+    · ![contributor roles icon](images/pencil-ruler-solid.svg){.inline_icon}
+    <a title="CREDIT_00000013 writing original draft role
+CREDIT_00000001 conceptualization role">2 roles</a>
+  <br>
+  <small>
+     University of California, Berkeley
+  </small>
+
++ **Violeta Ilik**<br>
+    ![ORCID icon](images/orcid.svg){.inline_icon}
+    [0000-0003-2588-3084](https://orcid.org/0000-0003-2588-3084)
+    · ![GitHub icon](images/github.svg){.inline_icon}
+    [vioil](https://github.com/vioil)
+    · ![contributor roles icon](images/pencil-ruler-solid.svg){.inline_icon}
+    <a title="CREDIT_00000013 writing original draft role
+CREDIT_00000002 data curation role
+CREDIT_00000001 conceptualization role">3 roles</a>
+  <br>
+  <small>
+     Library, Columbia University
+  </small>
+
++ **Ehsan Mohammadi**<br>
+    ![ORCID icon](images/orcid.svg){.inline_icon}
+    [0000-0003-3481-6991](https://orcid.org/0000-0003-3481-6991)
+    · ![contributor roles icon](images/pencil-ruler-solid.svg){.inline_icon}
+    <a title="CREDIT_00000013 writing original draft role">1 role</a>
+  <br>
+  <small>
+     University of South Carolina
+  </small>
+
++ **Juliane Schneider**<br>
+    ![ORCID icon](images/orcid.svg){.inline_icon}
+    [0000-0002-7664-3331](https://orcid.org/0000-0002-7664-3331)
+    · ![GitHub icon](images/github.svg){.inline_icon}
+    [pitviper6](https://github.com/pitviper6)
+    · ![contributor roles icon](images/pencil-ruler-solid.svg){.inline_icon}
+    <a title="CREDIT_00000013 writing original draft role
+CREDIT_00000002 data curation role">2 roles</a>
+  <br>
+  <small>
+     Harvard University
+  </small>
+
++ **Barbara Kern**<br>
+    ![ORCID icon](images/orcid.svg){.inline_icon}
+    [0000-0002-1184-911X](https://orcid.org/0000-0002-1184-911X)
+    · ![contributor roles icon](images/pencil-ruler-solid.svg){.inline_icon}
+    <a title="CREDIT_00000013 writing original draft role">1 role</a>
+  <br>
+  <small>
+     University of Chicago
   </small>
 
 + **Julien Colomb**<br>
@@ -106,6 +177,48 @@ CRO_0000006 background and literature search role">2 roles</a>
      · Funded by Grant# UL1TR001422
   </small>
 
++ **Daniel Himmelstein**<br>
+    ![ORCID icon](images/orcid.svg){.inline_icon}
+    [0000-0002-3012-7446](https://orcid.org/0000-0002-3012-7446)
+    · ![GitHub icon](images/github.svg){.inline_icon}
+    [dhimmel](https://github.com/dhimmel)
+    · ![contributor roles icon](images/pencil-ruler-solid.svg){.inline_icon}
+    <a title="CREDIT_00000009 software role
+CRO_0000064 software engineering role">2 roles</a>
+  <br>
+  <small>
+     University of Pennsylvania
+  </small>
+
++ **Marijane White**<br>
+    ![ORCID icon](images/orcid.svg){.inline_icon}
+    [0000-0001-5059-4132](https://orcid.org/0000-0001-5059-4132)
+    · ![contributor roles icon](images/pencil-ruler-solid.svg){.inline_icon}
+    <a title="CRO_0000052 standards role">1 role</a>
+  <br>
+  <small>
+     Library, Oregon Health & Science University
+     · Funded by Grant# U24 TR002306
+  </small>
+
++ **Britton Smith**<br>
+    ![ORCID icon](images/orcid.svg){.inline_icon}
+    [0000-0002-6804-630X](https://orcid.org/0000-0002-6804-630X)
+    · ![contributor roles icon](images/pencil-ruler-solid.svg){.inline_icon}
+    <a title="CREDIT_00000001 conceptualization role">1 role</a>
+  <br>
+  <small>
+     University of Edinburgh
+  </small>
+
++ **Lisa O'Keefe**<br>
+    · ![contributor roles icon](images/pencil-ruler-solid.svg){.inline_icon}
+    <a title="CRO_0000081 coordination role">1 role</a>
+  <br>
+  <small>
+     Galter Health Sciences Library and Learning Center, Northwestern University Feinberg School of Medicine
+  </small>
+
 + **Melissa Haendel**<br>
     ![ORCID icon](images/orcid.svg){.inline_icon}
     [0000-0001-9114-8737](https://orcid.org/0000-0001-9114-8737)
@@ -120,119 +233,6 @@ CREDIT_00000004 'funding acquisition role'">4 roles</a>
   <small>
      Oregon Clinical and Translational Research Institute, Oregon Health & Science University; Linus Pauling Institute, Oregon State University
      · Funded by Grant# NCATS U24TR002306
-  </small>
-
-+ **Daniel Himmelstein**<br>
-    ![ORCID icon](images/orcid.svg){.inline_icon}
-    [0000-0002-3012-7446](https://orcid.org/0000-0002-3012-7446)
-    · ![GitHub icon](images/github.svg){.inline_icon}
-    [dhimmel](https://github.com/dhimmel)
-    · ![contributor roles icon](images/pencil-ruler-solid.svg){.inline_icon}
-    <a title="CREDIT_00000009 software role
-CRO_0000064 software engineering role">2 roles</a>
-  <br>
-  <small>
-     University of Pennsylvania
-  </small>
-
-+ **Mohammad Hosseini**<br>
-    ![ORCID icon](images/orcid.svg){.inline_icon}
-    [0000-0002-2385-985X](https://orcid.org/0000-0002-2385-985X)
-    · ![contributor roles icon](images/pencil-ruler-solid.svg){.inline_icon}
-    <a title="CREDIT_00000013 writing original draft role
-CREDIT_00000001 conceptualization role">2 roles</a>
-  <br>
-  <small>
-     Dublin City University
-  </small>
-
-+ **Violeta Ilik**<br>
-    ![ORCID icon](images/orcid.svg){.inline_icon}
-    [0000-0003-2588-3084](https://orcid.org/0000-0003-2588-3084)
-    · ![GitHub icon](images/github.svg){.inline_icon}
-    [vioil](https://github.com/vioil)
-    · ![contributor roles icon](images/pencil-ruler-solid.svg){.inline_icon}
-    <a title="CREDIT_00000013 writing original draft role
-CREDIT_00000002 data curation role
-CREDIT_00000001 conceptualization role">3 roles</a>
-  <br>
-  <small>
-     Library, Columbia University
-  </small>
-
-+ **Barbara Kern**<br>
-    ![ORCID icon](images/orcid.svg){.inline_icon}
-    [0000-0002-1184-911X](https://orcid.org/0000-0002-1184-911X)
-    · ![contributor roles icon](images/pencil-ruler-solid.svg){.inline_icon}
-    <a title="CREDIT_00000013 writing original draft role">1 role</a>
-  <br>
-  <small>
-     University of Chicago
-  </small>
-
-+ **Ehsan Mohammadi**<br>
-    ![ORCID icon](images/orcid.svg){.inline_icon}
-    [0000-0003-3481-6991](https://orcid.org/0000-0003-3481-6991)
-    · ![contributor roles icon](images/pencil-ruler-solid.svg){.inline_icon}
-    <a title="CREDIT_00000013 writing original draft role">1 role</a>
-  <br>
-  <small>
-     University of South Carolina
-  </small>
-
-+ **Lisa O'Keefe**<br>
-    · ![contributor roles icon](images/pencil-ruler-solid.svg){.inline_icon}
-    <a title="CRO_0000081 coordination role">1 role</a>
-  <br>
-  <small>
-     Galter Health Sciences Library and Learning Center, Northwestern University Feinberg School of Medicine
-  </small>
-
-+ **Juliane Schneider**<br>
-    ![ORCID icon](images/orcid.svg){.inline_icon}
-    [0000-0002-7664-3331](https://orcid.org/0000-0002-7664-3331)
-    · ![GitHub icon](images/github.svg){.inline_icon}
-    [pitviper6](https://github.com/pitviper6)
-    · ![contributor roles icon](images/pencil-ruler-solid.svg){.inline_icon}
-    <a title="CREDIT_00000013 writing original draft role
-CREDIT_00000002 data curation role">2 roles</a>
-  <br>
-  <small>
-     Harvard University
-  </small>
-
-+ **Britton Smith**<br>
-    ![ORCID icon](images/orcid.svg){.inline_icon}
-    [0000-0002-6804-630X](https://orcid.org/0000-0002-6804-630X)
-    · ![contributor roles icon](images/pencil-ruler-solid.svg){.inline_icon}
-    <a title="CREDIT_00000001 conceptualization role">1 role</a>
-  <br>
-  <small>
-     University of Edinburgh
-  </small>
-
-+ **Samantha Teplitzky**<br>
-    ![ORCID icon](images/orcid.svg){.inline_icon}
-    [0000-0001-7071-332X](https://orcid.org/0000-0001-7071-332X)
-    · ![GitHub icon](images/github.svg){.inline_icon}
-    [samteplitzky](https://github.com/samteplitzky)
-    · ![contributor roles icon](images/pencil-ruler-solid.svg){.inline_icon}
-    <a title="CREDIT_00000013 writing original draft role
-CREDIT_00000001 conceptualization role">2 roles</a>
-  <br>
-  <small>
-     University of California, Berkeley
-  </small>
-
-+ **Marijane White**<br>
-    ![ORCID icon](images/orcid.svg){.inline_icon}
-    [0000-0001-5059-4132](https://orcid.org/0000-0001-5059-4132)
-    · ![contributor roles icon](images/pencil-ruler-solid.svg){.inline_icon}
-    <a title="CRO_0000052 standards role">1 role</a>
-  <br>
-  <small>
-     Library, Oregon Health & Science University
-     · Funded by Grant# U24 TR002306
   </small>
 
 + **Kristi Holmes**<br>
