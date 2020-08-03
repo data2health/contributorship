@@ -24,6 +24,7 @@ authors:
       - CREDIT_00000002 data curation role
       - CRO_0000052 standards role
       - CREDIT_00000013 writing original draft role
+      - CREDIT_00000014 writing review and editing role
   - name: Mohammad Hosseini
     initials: MH
     orcid: 0000-0002-2385-985X
@@ -33,6 +34,7 @@ authors:
     roles:
       - CREDIT_00000013 writing original draft role
       - CREDIT_00000001 conceptualization role
+      - CREDIT_00000014 writing review and editing role
   - github: samteplitzky
     name: Samantha Teplitzky
     initials: ST
@@ -42,7 +44,8 @@ authors:
       - University of California, Berkeley
     roles:
       - CREDIT_00000013 writing original draft role
-      - CREDIT_00000001 conceptualization role     
+      - CREDIT_00000001 conceptualization role  
+      - CREDIT_00000014 writing review and editing role
   - github: vioil
     name: Violeta Ilik
     initials: VI
@@ -53,7 +56,8 @@ authors:
     roles:
       - CREDIT_00000013 writing original draft role
       - CREDIT_00000002 data curation role
-      - CREDIT_00000001 conceptualization role       
+      - CREDIT_00000001 conceptualization role   
+      - CREDIT_00000014 writing review and editing role
   - name: Ehsan Mohammadi
     initials: EM
     orcid: 0000-0003-3481-6991
@@ -62,6 +66,7 @@ authors:
       - University of South Carolina
     roles:
       - CREDIT_00000013 writing original draft role
+      - CREDIT_00000014 writing review and editing role
   - github: pitviper6
     name: Juliane Schneider
     initials: JS
@@ -72,6 +77,7 @@ authors:
     roles:
       - CREDIT_00000013 writing original draft role
       - CREDIT_00000002 data curation role
+      - CREDIT_00000014 writing review and editing role
   - github:
     name: Barbara Kern
     initials: BK
@@ -81,6 +87,7 @@ authors:
       - University of Chicago
     roles:
       - CREDIT_00000013 writing original draft role
+      - CREDIT_00000014 writing review and editing role
   - name: Julien Colomb
     initials: JC
     orcid: 0000-0002-3127-5520
@@ -92,6 +99,7 @@ authors:
       - CREDIT_00000013 writing original draft role
       - CREDIT_00000009 sotware role
       - CREDIT_00000001 conceptualization role
+      - CREDIT_00000014 writing review and editing role
   - name: Scott Edmunds
     initials: SE
     orcid: 0000-0001-6444-1436
@@ -101,6 +109,7 @@ authors:
     roles:
       - CREDIT_00000013 writing original draft role
       - CREDIT_00000001 conceptualization role
+      - CREDIT_00000014 writing review and editing role
   - name: Karen Gutzman
     initials: KG
     orcid: 0000-0001-6331-4451
@@ -111,6 +120,7 @@ authors:
     roles:
       - CREDIT_00000013 writing original draft role
       - CRO_0000006 background and literature search role
+      - CREDIT_00000014 writing review and editing role
   - github: dhimmel
     name: Daniel Himmelstein
     initials: DH
@@ -121,6 +131,7 @@ authors:
     roles:
       - CREDIT_00000009 software role
       - CRO_0000064 software engineering role
+      - CREDIT_00000014 writing review and editing role
   - name: Marijane White
     initials: MW
     orcid: 0000-0001-5059-4132
@@ -130,6 +141,7 @@ authors:
     funders: Grant# U24 TR002306
     roles:
       - CRO_0000052 standards role
+      - CREDIT_00000014 writing review and editing role
   - name: Britton Smith
     initials: BS
     orcid: 0000-0002-6804-630X
@@ -138,6 +150,7 @@ authors:
       - University of Edinburgh
     roles:
       - CREDIT_00000001 conceptualization role
+      - CREDIT_00000014 writing review and editing role
   - name: Lisa O'Keefe
     initials: LO
     email: lisa.okeefe@northwestern.edu
@@ -145,6 +158,7 @@ authors:
       - Galter Health Sciences Library and Learning Center, Northwestern University Feinberg School of Medicine
     roles:
       - CRO_0000081 coordination role
+      - CREDIT_00000014 writing review and editing role
   - github: mellybelly
     name: Melissa Haendel
     initials: MH
@@ -159,6 +173,7 @@ authors:
       - CRO_0000052 'standards role'
       - CREDIT_00000002 ‘data curation role’
       - CREDIT_00000004 'funding acquisition role' 
+      - CREDIT_00000014 writing review and editing role
   - github: kristiholmes
     name: Kristi Holmes
     initials: KH
@@ -175,4 +190,5 @@ authors:
       - CRO_0000052 standards role
       - CREDIT_00000001 conceptualization role
       - CREDIT_00000004 funding acquisition role
+      - CREDIT_00000014 writing review and editing role
 
